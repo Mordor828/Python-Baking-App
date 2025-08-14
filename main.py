@@ -1,4 +1,4 @@
-# Python Baking App
+# Python Bank App
 
 def show_balance():
     print("**********************")
